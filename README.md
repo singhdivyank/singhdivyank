@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there👋
 
-<!--
-**singhdivyank/singhdivyank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Divyank currently working on projects based on data science and deep learning
 
-Here are some ideas to get you started:
+- Currently working on Data Science and algorithms
+- I intend to collaborate on subjects with relevance in Computer Science
+- I’m looking for help with Computer and Cyber Security
+- Connect with me as a data scientist on Kaggle: <https://www.kaggle.com/dsingh99>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me on:
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/divyank-singh-5a94b8169/)
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=singhdivyank&show_icons=true&theme=radical&line_height=27">
+  <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=singhdivyank&theme=tokyonight">
+
+</p>
+</br>
