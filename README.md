@@ -5,12 +5,10 @@ I am Divyank currently working on projects based on data science and deep learni
 - Currently working on Data Science and algorithms
 - I intend to collaborate on subjects with relevance in Computer Science
 - I’m looking for help with Computer and Cyber Security
-- Connect with me as a data scientist on Kaggle: <https://www.kaggle.com/dsingh99>
 
 Connect with me on:
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/divyank-singh-5a94b8169/)
-[<img src="https://img.shields.io/badge/url?style=social/>"]
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/divyank-singh-5a94b8169/)[<img src="https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />](https://www.kaggle.com/dsingh99)
 
 <br>
 
