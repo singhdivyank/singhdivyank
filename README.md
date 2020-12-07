@@ -2,7 +2,6 @@
 
 I am Divyank Singh currently working on projects based on data science and deep learning based in Chandigarh, India
 
-- 📌 Currently working on Data Science and algorithms
 - ⚓ I intend to collaborate on subjects with relevance in Computer Science
 - ✍ Looking for help with Computer and Cyber Security
 
