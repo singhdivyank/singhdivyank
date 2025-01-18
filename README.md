@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MLOps**
 
-- 🌱 I’m currently learning **Machine Learning, Generative AI**
+- 🌱 I’m currently learning **PySpark**
 
 - 👯 I’m looking to collaborate on **AI for healthcare**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://singhdivyank.github.io](https://singhdivyank.github.io)
 
-- 💬 Ask me about **LLMs,RAG,AWS, Natural Language Processing**
+- 💬 Ask me about **LLMs, RAG, AWS, Natural Language Processing, Machine Learning, and Generative AI**
 
 - 📫 How to reach me **singh.divya@northeastern.edu**
 
