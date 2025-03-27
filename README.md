@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyank</h1>
 <h3 align="center">An Artificial Intelligence grad student at Northeastern University, Boston</h3>
 
-- 🔭 I’m currently working on **MLOps**
+- 🔭 I’m currently working on **Agentic AI**
 
 - 🌱 I’m currently learning **PySpark**
 
